@@ -1,0 +1,14 @@
+# Ignore the data directory
+data/*
+!data/.gitkeep
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# Virtual environment
+venv/
+.env
